@@ -19,7 +19,7 @@ const ExpenseDashboardPage = () =>(
 const AddExpensePage = () => (
 
     <div>
-        <p>This is add expense  page </p>
+        <p>This is add expense  component</p>
 
     </div>
 
@@ -36,7 +36,7 @@ const HelpPage = () => (
 <div>
 
 <p>
-This is help page
+This is help component
 </p>
 
 </div>
