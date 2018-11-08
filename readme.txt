@@ -16,3 +16,8 @@ it also used snappy memory so dont need to rely on bundle.js)
 
 for installing sass:
 yarn add sass-loader@6.0.6  node-sass@4.5.3
+
+
+
+
+for error in 404 directed to index.html read this :https://webpack.js.org/configuration/dev-server/#devserver-historyapifallback
