@@ -6,7 +6,7 @@ const EditExpensePage = (props) => {
     return (
     <div>
 
-        <p>This is Edit page</p>
+        <p>This is Edit page </p>
     </div>
     );
 };
