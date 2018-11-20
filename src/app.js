@@ -5,5 +5,5 @@ import 'normalize.css/normalize.css'
 import AppRouter from './routers/appRouter'
 
 
-ReactDOM.render(<AppRouter/>, document.getElementById('app'));
+ReactDOM.render(<AppRouter />, document.getElementById('app'));
 
