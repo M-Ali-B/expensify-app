@@ -8,6 +8,7 @@ command for server  :
 for building :
 yarn run build (good for production and physical copy of bundle.js)
 
+#update
 for using webpack server: 
 yarn run dev-server (it compiles and run the app and good for development, 
 it also used snappy memory so dont need to rely on bundle.js) 
